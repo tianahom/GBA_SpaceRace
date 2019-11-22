@@ -28,3 +28,5 @@ asteroids
 | Button B | Z |
 | START | Enter |
 | SELECT | Backspace |
+
+Download Project.gba to play after finishing installation.
