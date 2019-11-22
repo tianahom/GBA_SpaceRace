@@ -26,3 +26,5 @@ asteroids
 | ------------- | ------------- |
 | Button A | Z |
 | Button B | X |
+| START | Enter |
+| SELECT | Backspace |
