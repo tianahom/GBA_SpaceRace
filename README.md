@@ -24,7 +24,7 @@ asteroids
 
 | GBA Controls  | Keyboard |
 | ------------- | ------------- |
-| Button A | Z |
-| Button B | X |
+| Button A | X |
+| Button B | Z |
 | START | Enter |
 | SELECT | Backspace |
