@@ -21,6 +21,7 @@ Sounds for every screen and sound effects during game
 Cheat (Button B) - gains jetpack boost to go faster and to protect from the
 asteroids
 
+
 | GBA Controls  | Keyboard |
 | ------------- | ------------- |
 | Button A | Z |
